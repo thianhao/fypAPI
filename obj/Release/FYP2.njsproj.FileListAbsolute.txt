@@ -1,0 +1,3 @@
+C:\Users\thian\source\repos\FYP2\obj\Release\FYP2.njsproj.CoreCompileInputs.cache
+C:\Users\thian\source\repos\FYP2\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\thian\source\repos\FYP2\obj\Release\FYP2.njsprojAssemblyReference.cache
